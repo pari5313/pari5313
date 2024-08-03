@@ -69,8 +69,7 @@
 ## 🔥 STREAKS & STATS 📊
 
 ![pari5313's Stats](https://github-readme-stats.vercel.app/api?username=pari5313&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![pari5313LeetCode Stats](https://leetcode-stats-api.herokuapp.com/pari5313)
-
+[![Leetcode Stats](https://leetcode.com/u/paridhiagarwal5313/)](https://leetcode.com/u/paridhiagarwal5313/)
 
 ![paridhiagarwal5313's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pari5313&theme=vue-dark&hide_border=true)
 
