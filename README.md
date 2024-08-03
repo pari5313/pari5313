@@ -68,7 +68,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## 🔥 STREAKS & STATS 📊
 
-![MadhurGoel8864's Stats](https://github-readme-stats.vercel.app/api?username=pari5313&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![pari5313's Stats](https://github-readme-stats.vercel.app/api?username=pari5313&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![pari5313LeetCode Stats](https://leetcode-stats-api.herokuapp.com/pari5313)
+
 
 ![paridhiagarwal5313's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pari5313&theme=vue-dark&hide_border=true)
 
