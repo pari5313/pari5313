@@ -18,7 +18,7 @@
 
 👩‍💻 I'm currently working on Building Interactive User Interfaces
 
-😄 Pronouns: He/Him/Coder
+😄 Pronouns: She/Her/Coder
 
 
 
